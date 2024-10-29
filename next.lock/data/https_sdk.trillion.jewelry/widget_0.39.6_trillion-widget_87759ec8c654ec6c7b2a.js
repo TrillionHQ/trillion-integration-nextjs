@@ -1,0 +1,2 @@
+import{C as c,F as r,T as t}from"./lib-exports.67751b31.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{},s=new e.Error().stack;s&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[s]="e0fac62b-c6a2-4970-9778-cbcde2c5c795",e._sentryDebugIdIdentifier="sentry-dbid-e0fac62b-c6a2-4970-9778-cbcde2c5c795")}catch{}})();export{c as CAROUSEL_MOCK_LIST,r as FAVORITES_MOCK_LIST,t as TrillionWidgetApp};
+//# sourceMappingURL=trillion-widget.js.map

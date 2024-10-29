@@ -1,0 +1,23 @@
+{
+  "https://cdn.jsdelivr.net/npm/trillion-viewer@0.36.1/build-lib/trillion-viewer.js": { "integrity": "sha512-CbR7pjIPgbSYfQTeLR1+5KrcMs1TsBI/MVAefb8IUF5zlwDB4jIssY21RdUu0hyRC1Jix4NM96GEfMu3FgIlNQ==", "contentType": "application/javascript; charset=utf-8" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/apm-loader.b05e8b6f.js": { "integrity": "sha512-nVdaHtlI9R7yC+7PUGUCaJuhFmITSAnLYwJXJmMR/qBZ2swjsKZYhtMBPF/pArUiqDdh05DL4S2OvK/7H8wpqQ==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/bulgari-loader.d0699179.js": { "integrity": "sha512-vwuexrGwcGP5vrqevPuE+5q5G82Re8YMl7bpEPgRdS40ppH/+NNgvYYcMrHdmOkkRAZvXQPVgvYJHXzV4oBPbw==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/camille-loader.873d8728.js": { "integrity": "sha512-M7OgFn4JdYCEZbuyBcDuzsuIiwTU6RDGEWfgcxAJap6zo294lyxCabHcCQAKUzct/PB+nztlyJWQNOZBZyic+g==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/channel-loader.a6035dd4.js": { "integrity": "sha512-kswggBw6lBea8nstzFUxFS7mLApOtLxIG+ixMZRadjuBqUtm30Wk/RKwuaAdvJzyaPVbjHBe5zt5lVzDjAxKpw==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/clase-azul-loader.71c97720.js": { "integrity": "sha512-jE65MGvJQoYhBgBFMNG9QhpfDZ1qos4Z2rOKHsm7ENeGtGhGRkkLH7jFqEdHQOLkFhXI77cE3e3ApWcSRKBoRw==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/colibri-loader.d5b13190.js": { "integrity": "sha512-5pzr3S3JlTrxOeccAoSlbELKOPZuWMmdDLskYV1Zwry7fNCcstxFT+K3dKGCkupiff9Q97iRJ/8XIlEJoqC8tw==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/dior-loader.32e2c4d6.js": { "integrity": "sha512-ZxJe2zdJd/+i92zT1LMI4bQlhPhb5NeIpxAJBNAodeI9Y46qXLdrcHIuAtGw8qNGeqeOlRa1QiPsSMT4LjpQ8g==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/doji-loader.e3d76678.js": { "integrity": "sha512-CFp9bRRreP7uLyGS+mOsYYARo1+pFbzifgSGIPrhGOREuGXZq5a79zR53HJKx9ZsFIF/AFpCQiaqOrH+ulobzg==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/excellence-loader.5687282a.js": { "integrity": "sha512-EnbwHvFFm+mGASn6FX7olqvSXrW3L2GjUZOC2D1GO3DztsME6zC0FB5T1yl4Yr0YhpZI1sCwR/752KCwERlEbw==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/hermes-loader.c32360ab.js": { "integrity": "sha512-TA/BTRJPudulKOzmaY2b+l1WuuEvF5wCBpAnFvcbhDIS9gzpBnIZ+9Y4+F3OlZRIUQE+edyisEfAtew7A3tktg==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/kismet-loader.d857bc97.js": { "integrity": "sha512-QF+QvUB1+t0fWuwd6yNf6F+UI8SjT1ubiwFA3zKl919uUSdYALS1nEsk5XdzCSiEq7RhBtZJDBxh3bwHMv1XiQ==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/kooheji-loader.864ee772.js": { "integrity": "sha512-YE/aUlZWn7P7wcCg938tSJGmUDwoxQicAR46QaEGmCqBJpA7/nTsfZqxagsxcX5Ut+oVZUj62xFhGB9PFYKTCg==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/lazurde-loader.0eb4671e.js": { "integrity": "sha512-BnQp4u4yONMVVWXG8F774CKh5uulj5H/5549SL3lSz4LQKtSePfUaNC3Gwy0Aavf48pKgD0LfLb5R0YeKNC6Sg==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/lib-exports.67751b31.js": { "integrity": "sha512-72ybFcz8BQ5K5o4v1YXo4AzkPfxNt4n7C0+8Jyuj0gvJqWXLOBQCIZeGd/5DGBNRFXrdm4LeFJ6Udavk62dDLg==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/mejuri-loader.4f35f588.js": { "integrity": "sha512-qlFm32YGAteE3FPoyHaeTTrSGZT82RbbM/ROtwJ2YxQLRGdnuRtYl79hxpR6CuTlD41L/0I5wjtgFzeR58z0zA==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/oscar-loader.695fa205.js": { "integrity": "sha512-myWoISOJaoRtZmvEWBI/mnxfCBBuo/ekRpDtVB4Kcx6oBWI6RNiHDPYtmr2NRG8HH0faB1O0fI+q5coPd7aPRA==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/parure-loader.f53d1714.js": { "integrity": "sha512-KzFIx9GUH6g+Gc3GN0oMxhPzz6WVfUepkjh9/fUxyyF5cL/HXbj6M8fA49YXf7BJb/RGm5GFyGX78tx++bHp9Q==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/swarovski-loader.d932a960.js": { "integrity": "sha512-B99jYFNSHumx4qiD3yB8Oomksr9/DGPlUvEvvQjZjk0wsFSYKoqSnWqSOHmLm5XlzF7s9XfWW3GDIwyK0xGgqA==", "contentType": "text/javascript" },
+  "https://sdk.trillion.jewelry/widget/0.39.6/trillion-widget.js": { "integrity": "sha512-n5n6k4lVjx9MGqLhOMUhfrohJeKMb8bYaWp96TgcOqf0YtHKI9qWcQ8u7zdwHk/eR/ZWPsdcFoZ/puSlhx8r5A==", "contentType": "text/javascript" },
+  "version": 1
+}
